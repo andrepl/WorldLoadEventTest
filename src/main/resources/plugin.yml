@@ -1,0 +1,5 @@
+main: com.norcode.bukkit.worldloadeventtest.WorldLoadEventTest
+author: metalhedd
+version: 1.0-SNAPSHOT
+name: WorldLoadEventTest
+load: STARTUP
